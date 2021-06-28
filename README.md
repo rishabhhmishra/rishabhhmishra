@@ -1,10 +1,10 @@
-### </Rishabh Mishra>
-### Hello Folks 👋
+### <h1>Rishabh Mishra</h1>
+### Hello Folks 
 
 <!--
 **rishabhhmishra/rishabhhmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 😄 Pronouns: He/His
+- Pronouns: He/His
 - 📫 How to reach me: [Twitter](https://twitter.com/rishabhhmishra), [Linkedin](https://www.linkedin.com/in/rishabhhmishra)
 
 ![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rishabhhmishra)
